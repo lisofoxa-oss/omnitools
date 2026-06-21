@@ -1,0 +1,18 @@
+{
+  "name": "omnitools",
+  "version": "1.0.0",
+  "description": "Browser-based developer utilities — JSON formatter, Base64, Diff, Regex tester, Hash generator, and more. All client-side, no data leaves your browser.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "keywords": ["developer-tools", "utilities", "json", "base64", "privacy"],
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.0.16",
+    "vitest": "^4.1.9"
+  }
+}
